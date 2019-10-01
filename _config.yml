@@ -1,0 +1,22 @@
+title: "Devilx86"
+author: "Devilx86"
+
+show_footer: true
+
+#navigation:
+#  - About: "./index.html"
+
+icons:                      
+#  envelope: "mailto:"
+  github: "http://github.com/Devilx86"
+  rss: "/feed.xml"
+
+repository: "Devilx86/devilx86.github.io"
+
+comments:
+#  disqus: ""
+#  isso: ""
+
+plugins:
+ - jekyll-feed
+ - jekyll-default-layout
